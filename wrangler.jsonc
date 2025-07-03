@@ -25,3 +25,4 @@ npm create cloudflare@latest -- hello-ai
     "binding": "AI"
   }
 }
+npx wrangler dev
