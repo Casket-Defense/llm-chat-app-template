@@ -20,3 +20,8 @@
   "upload_source_maps": true
 }
 npm create cloudflare@latest -- hello-ai
+{
+  "ai": {
+    "binding": "AI"
+  }
+}
